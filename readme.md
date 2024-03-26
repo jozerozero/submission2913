@@ -1,1 +1,1 @@
-Visualization
+Visualization results of IDEA.
